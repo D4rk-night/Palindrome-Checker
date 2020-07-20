@@ -1,0 +1,13 @@
+h2 {
+    font-family: Lobster, monospace;
+    font-size: 3.5em;
+}
+
+p, h3 {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+}
+
+#left-well {
+    margin-left: 70px;
+}
